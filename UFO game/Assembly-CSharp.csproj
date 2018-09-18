@@ -64,9 +64,15 @@
     <Compile Include="Assets\_Completed-Assets\Scripts\CompleteCameraController.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\CompletePlayerController.cs" />
     <Compile Include="Assets\_Completed-Assets\Scripts\CompleteRotator.cs" />
+    <Compile Include="Assets\nonpickup.cs" />
+    <Compile Include="Assets\Parallaxing.cs" />
+    <Compile Include="Assets\Parallexing.cs" />
     <Compile Include="Assets\scripts\CameraController.cs" />
+    <Compile Include="Assets\scripts\display.cs" />
+    <Compile Include="Assets\scripts\Parallexin.cs" />
     <Compile Include="Assets\scripts\PlayerController.cs" />
     <Compile Include="Assets\scripts\Rotator.cs" />
+    <Compile Include="Assets\speak.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\TutorialInfo.cs" />
     <None Include="Assets\TutorialInfo\Fonts\LICENSE.txt" />
     <Reference Include="UnityEditor.StandardEvents">
